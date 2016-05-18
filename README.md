@@ -1,4 +1,4 @@
-# Android special collection
+# android boutique collection of knowledge
 #精品知识收藏
 
 ####[译]精通 Android 中的 tools 命名空间
